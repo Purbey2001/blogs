@@ -1,0 +1,12 @@
+.header {
+    width: 100%;
+    border-radius: 10px;
+    position: fixed;
+    z-index: 100;
+    top: 0;
+    left: 0;
+    background: white;
+    border-width: 1px;              /* border */
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.2),
+                0 2px 4px -2px rgba(0,0,0,0.2);  /* shadow-md */
+}

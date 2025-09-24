@@ -1,0 +1,12 @@
+.blogs{
+    width: 100%;
+    max-width: 520px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 20px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 0px;
+}
