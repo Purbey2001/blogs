@@ -1,5 +1,5 @@
 import React from 'react'
-import './TagPAge.css'
+import './TagPage.css'
 import Header from '../components/Header'
 import Blogs from '../components/Blogs'
 import Pagination from '../components/Pagination'
